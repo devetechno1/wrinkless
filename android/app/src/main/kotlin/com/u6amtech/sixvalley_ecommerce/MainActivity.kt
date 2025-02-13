@@ -1,4 +1,4 @@
-package com.devetechno.master
+package com.niletouch.wrinkless
 
 import io.flutter.embedding.android.FlutterActivity
 

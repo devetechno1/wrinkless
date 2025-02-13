@@ -81,7 +81,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:975837518429:android:0d09565065ca513b9f0bb4",
         "android_client_info": {
-          "package_name": "com.devetechno.master"
+          "package_name": "com.niletouch.wrinkless"
         }
       },
       "oauth_client": [
@@ -89,7 +89,7 @@
           "client_id": "975837518429-1e8cbf95jl604ms9jvm0u85njfkrqlgu.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.devetechno.master",
+            "package_name": "com.niletouch.wrinkless",
             "certificate_hash": "ac8b694ad0d8d1cfef6083d90eed53fc285df672"
           }
         },
@@ -97,7 +97,7 @@
           "client_id": "975837518429-dhks5vdcnbijcm0umgts6ot5dmjfrdja.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.devetechno.master",
+            "package_name": "com.niletouch.wrinkless",
             "certificate_hash": "9fb13852f4a3fe0581acb7aada39a3f10d8878bb"
           }
         },
@@ -105,7 +105,7 @@
           "client_id": "975837518429-ekdmsp3u9u5rjcmk1h1h5f9q11pds23p.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.devetechno.master",
+            "package_name": "com.niletouch.wrinkless",
             "certificate_hash": "40d632f22524c13a03fbd731007d7e586a846ef0"
           }
         },
@@ -141,7 +141,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:975837518429:android:e9aa79ea44c0dd549f0bb4",
         "android_client_info": {
-          "package_name": "com.devetechno.master.seller"
+          "package_name": "com.niletouch.wrinkless.seller"
         }
       },
       "oauth_client": [
@@ -177,7 +177,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:975837518429:android:352e7a4c67eb4c079f0bb4",
         "android_client_info": {
-          "package_name": "com.devetechno.master_delivery_boy"
+          "package_name": "com.niletouch.wrinkless_delivery_boy"
         }
       },
       "oauth_client": [
@@ -185,7 +185,7 @@
           "client_id": "975837518429-vkv6djm84tlf6c2i9fsngo3ldf7m9vov.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.devetechno.master_delivery_boy",
+            "package_name": "com.niletouch.wrinkless_delivery_boy",
             "certificate_hash": "b0f12d389cacfdb6de975e12bc4cd7062ec75d04"
           }
         },
