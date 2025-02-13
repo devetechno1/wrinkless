@@ -2,7 +2,7 @@ import 'package:flutter_sixvalley_ecommerce/localization/models/language_model.d
 import 'package:flutter_sixvalley_ecommerce/utill/images.dart';
 
 class AppConstants {
-  static const String appName = 'Master app';
+  static const String appName = 'Wrinkless';
   static const String slogan = '';
   static const String appVersion = '14.8';
 
@@ -245,7 +245,6 @@ class AppConstants {
   static const bool inboxReplacedByBlog = true;
   static bool shouldLoginFirst = false;
   static bool showBlog = false;
-
 
   static List<LanguageModel> languages = [
     LanguageModel(
