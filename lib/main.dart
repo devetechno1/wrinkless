@@ -68,10 +68,10 @@ Future<void> main() async {
     if (Platform.isAndroid) {
       await Firebase.initializeApp(
           options: const FirebaseOptions(
-              apiKey: "current_key here",
-              projectId: "project_id here",
-              messagingSenderId: "project_number here",
-              appId: "mobilesdk_app_id here"));
+              apiKey: "AIzaSyCBC24LpiRnY8_E22HfLhzqYtR7Y13WpYQ",
+              projectId: "wrinkless-b5e85",
+              messagingSenderId: "619651728655",
+              appId: "1:619651728655:android:f60be3da18e2d1c199aa7a"));
     } else {
       await Firebase.initializeApp();
     }
