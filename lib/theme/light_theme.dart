@@ -4,8 +4,8 @@ ThemeData light({
   Color? primaryColor,
   Color? secondaryColor,
 }) {
-  primaryColor ??= const Color(0xFFffcc66);
-  secondaryColor ??= const Color(0xFF003366);
+  primaryColor ??= const Color(0xFFE263AB);
+  secondaryColor ??= const Color(0xFF000000);
 
   return ThemeData(
     fontFamily: 'TitilliumWeb',
